@@ -9,7 +9,6 @@ import org.hibernate.boot.Metadata;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
-//This is My First Hibernate One To One Relationship Mapping Application.
 
 public class OneToOneRelationshipApplicationHb1Application {
 
